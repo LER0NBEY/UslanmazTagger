@@ -9,7 +9,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Developer](https://t.me/duyguszadam)✨
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ali930ben/aynurbot2)
+[![Deploy](https://www.mogenius.com/deploy/button.svg)](https://mogenius.com/deploy?template=https://github.com/LER0NBEY/uslanmaztagger)
 
 ### 🎯 Bana Destek Olmak İstermisin Aşğıdaki Bağlantıdan Bağış Yapa Bilirsin
 
